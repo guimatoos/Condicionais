@@ -1,0 +1,15 @@
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\bin\Debug\net6.0\AulaCSharp.exe
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\bin\Debug\net6.0\AulaCSharp.deps.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\bin\Debug\net6.0\AulaCSharp.runtimeconfig.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\bin\Debug\net6.0\AulaCSharp.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\bin\Debug\net6.0\AulaCSharp.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.csproj.AssemblyReference.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.AssemblyInfoInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.AssemblyInfo.cs
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\refint\AulaCSharp.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\AulaCSharp.genruntimeconfig.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\AulaCSharp\obj\Debug\net6.0\ref\AulaCSharp.dll
