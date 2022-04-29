@@ -7,16 +7,16 @@ int year = int.Parse(Console.ReadLine());
 int age = 2022-year;
 Console.WriteLine($"Sua idade é {age} anos");
 
-if (age>=18) {
-
+if (age>=18) 
+{
     Console.WriteLine("Portanto você é maior de idade!");
 }
-else if (age == 17) {
-   
-    Console.WriteLine("Você está quase lá, mas ainda é de menor");
+else if (age == 17) 
+{
+    Console.WriteLine("Você está quase lá, mas ainda é menor de idade");
 }
-else {
-    
+else
+{    
     Console.WriteLine("Portanto você é menor de idade!");
 }
 

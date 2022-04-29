@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guima\\OneDrive\\Área de Trabalho\\Projetos\\AulaCSharp\\AulaCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\guima\\OneDrive\\Área de Trabalho\\Projetos\\condicional\\AulaCSharp.csproj",
       "projectName": "AulaCSharp",
-      "projectPath": "C:\\Users\\guima\\OneDrive\\Área de Trabalho\\Projetos\\AulaCSharp\\AulaCSharp.csproj",
+      "projectPath": "C:\\Users\\guima\\OneDrive\\Área de Trabalho\\Projetos\\condicional\\AulaCSharp.csproj",
       "packagesPath": "C:\\Users\\guima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guima\\OneDrive\\Área de Trabalho\\Projetos\\AulaCSharp\\obj\\",
+      "outputPath": "C:\\Users\\guima\\OneDrive\\Área de Trabalho\\Projetos\\condicional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guima\\AppData\\Roaming\\NuGet\\NuGet.Config"
